@@ -1,4 +1,4 @@
-<img src="https://github.com/kevydotvinu/kevydotvinu/blob/main/cover.png" width="100%">
+<img src="https://github.com/kevydotvinu/kevydotvinu/blob/main/newCover.png" width="100%">
 
 <!--
 **kevydotvinu/kevydotvinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
