@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am an avid fan of Linux and open-source enthusiast. I write blog ⚡. I started learning Go 🔭. Currently replacing all my bash script with Go 🤔.
+#### I am an avid fan of Linux and open-source enthusiast. I write blog ⚡. I started learning Go 🔭. Currently replacing all my bash script with Go 🤔.
 
 <!--
 **kevydotvinu/kevydotvinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
